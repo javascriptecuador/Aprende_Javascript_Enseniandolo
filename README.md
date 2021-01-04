@@ -18,6 +18,8 @@ Esta charla debe ser facil de entender de minimo 15 y maximo 30 minutos (dependi
 > No importa si no conoces aun del tema.
 > Pero el compromiso es que lo investigues, lo aprendas, practiques y prepares una presentacion, un repositorio de practicas asi como soluciones del mismo, en caso de necesitarse.
 
+**Nota:** *siempre debes referenciar y dar la atribucion respectiva a la persona, material, sitio o libro del que te ayudaste para aprender el tema del que estes compartiendo.*
+
 ## Objetivos:
 - compartir conocimientos a la comunidad
 - aprender y enseniar programacion, JS y buenas practicas a profundidad desde cero.
