@@ -9,7 +9,7 @@ La idea es que entre toda la comunidad Javascript Ecuador, se organicen sesiones
 ## Como funcionara:
 Se van a listar temas de javascript y buenas practicas; desde lo mas basico hasta lo mas avanzado que podamos llegar y asignar temas a las personas que quieran participar y preparar charlas.
 Estos temas/charla deberian tener una secuencia logica y cronologica para que quien las vea o encuentre, pueda tomarlas y aprender JS desde cero. 
-Se revisara estrictamete cada tema antes de que se imparta la charla.
+Se revisara estrictamente cada tema antes de que se imparta la charla (Al menos debe tener el ok o visto bueno de 5 personas como minimo, dejando un buen feedback, no se impartira la charla hasta que el minimo de personas haya revisado y dado un ok).
 
 ## Que hago si quiero dar una charla:
 Una persona o varias personas podran ponerse de acuerdo y escoger un tema de esta lista (aun por crear) el cual notificara y solicitara a los organizadores que se asigne el tema para empezar a preparar la presentacion.
